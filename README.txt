@@ -1,0 +1,1 @@
+Ce projet portera sur la compréhension de l'ajout de fichier ainsi que les différents commit lors des ajouts d'info.
